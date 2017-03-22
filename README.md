@@ -1,2 +1,5 @@
 # hello-world
-just a repository for test how to use GitHub
+
+hi, humans!
+
+This is editors, making some changes to redeme.
